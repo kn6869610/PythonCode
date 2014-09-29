@@ -1,2 +1,5 @@
-print ("我的第一隻Python程式")
-	
+#print ("我的第一隻Python程式")
+name = input("請輸入姓名:")
+print("Hi, %s ," % name)
+print(type(3.5))
+print(31321323123.12313231321321)
